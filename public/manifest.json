@@ -3,17 +3,17 @@
   "name": "Beer Finder",
   "icons": [
     {
-      "src": "beer_finder_logo.ico",
+      "src": "beer_finder_logo - square.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "beer-finder-logo.png",
+      "src": "beer-finder-logo - square.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "beer-finder-logo.png",
+      "src": "beer-finder-logo - square.png",
       "type": "image/png",
       "sizes": "512x512"
     }
